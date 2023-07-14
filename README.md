@@ -21,7 +21,12 @@
 - Switching Turns & Changing Rounds
 - Calculating Score and showing LeaderBoard
 
-## Screenshots
+## Demo
+
+
+https://github.com/NeerajYadu07/SketchNSeek/assets/100270646/734fc89f-154c-441a-8cc7-e9c6e6a91a4a
+
+
 ## How to Use
 ### Server Side
 ```bash
