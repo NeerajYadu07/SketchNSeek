@@ -6,7 +6,7 @@
 ## Tech Stack Used
     1. Flutter: For Client-side UI
     2. Node.js, Express, Mongoose, Socket.io: For server side
-    4. MongoDB: As DataBase
+    3. MongoDB: As DataBase
 ## Features
 - Creating Room
 - Joining Room
